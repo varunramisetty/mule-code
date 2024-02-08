@@ -1,0 +1,20 @@
+check the below xml examples syntax and write your explanation if the xml is not valid?
+1.
+<note>
+  <to>varun<to>
+  <from>sofoon<from>
+  <heading>Reminder<heading>
+  <body>Don't forget me this weekend!<body>
+</note>
+
+2.
+<msg>
+<name>Mulesoft Training<name>
+
+3.How can you represent a self-closing tag in XML?
+
+4.write an example for xml attribute?
+
+5.how to write comment in xml?
+
+6.How is XML different from Json?
